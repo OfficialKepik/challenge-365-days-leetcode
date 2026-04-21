@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: challenge-365-days-leetcode
