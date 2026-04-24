@@ -34,7 +34,7 @@
 ## 🔗 Полезные ссылки
 
 * 📘 LinkedIn: [https://leetcode.com/](https://www.linkedin.com/in/uladzislau-kapusto/)
-* 💻 Мой GitHub: [https://github.com/your-username](https://github.com/OfficialKepik)
+* 💻 Мой GitHub: [https://github.com/OfficialKepik](https://github.com/OfficialKepik)
 * 💬 Telegram: [https://t.me/officialkepik](https://t.me/officialkepik)
 
 ---
